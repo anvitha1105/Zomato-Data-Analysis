@@ -57,12 +57,12 @@ It has *two main components*:
 
 ---
 ## DataSet Information
--Source-Kaggle-Zomato Restaurant Dataset
-- Size: ~60 MB (cleaned and optimized for analysis)
--Encoding: latin-1
--Attributes: Restaurant Name, Location, Rating, Votes, Online Order, Cuisines, Cost for Two, etc
+- Source-Kaggle-Zomato Restaurant Dataset
+-  Size: ~60 MB (cleaned and optimized for analysis)
+- Encoding: latin-1
+- Attributes: Restaurant Name, Location, Rating, Votes, Online Order, Cuisines, Cost for Two, etc
 
-##✍ Credits
--Data Analysis & Visualization: Performed independently by me(Anvitha.N) using Jupyter Notebook
--Streamlit Dashboard Design: Created with assistance from ChatGPT
--Dataset Provider: Kaggle
+## Credits
+- Data Analysis & Visualization: Performed independently by me(Anvitha.N) using Jupyter Notebook
+- Streamlit Dashboard Design: Created with assistance from ChatGPT
+- Dataset Provider: Kaggle
