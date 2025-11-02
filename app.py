@@ -10,7 +10,7 @@ st.set_page_config(page_title="🍽 Zomato Full Data Analysis Dashboard", layout
 st.title("🍕 *Zomato Restaurants Analysis Dashboard*")
 st.markdown(
     """
-This interactive dashboard developed by Anvitha N gives you a deep insight into Zomato restaurant data — 
+This interactive dashboard created by Anvitha N gives you a deep insight into Zomato restaurant data — 
 covering customer ratings, cost patterns, location trends, cuisines, and much more.  
 Use the filters on the sidebar to customize your view 👇
 """
