@@ -1,4 +1,5 @@
-# 🍽 Zomato Restaurant Data Analysis & Dashboard  
+# 🍽 Zomato Restaurant Data Analysis & Dashboard  ![ezgif-1855eef717576b](https://github.com/user-attachments/assets/826e6cf2-8776-4fd6-b6a0-71dce570136a)
+
 
 ### 📅 Duration  
 *November 2025* (Completed in 1 day as part of a Data Analytics project series)
